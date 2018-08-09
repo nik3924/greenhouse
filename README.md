@@ -1,6 +1,6 @@
 # Greenhouse Reference Application
 This is a java maven project
-........ 123...............
+modified 1
 
 ## Overview
 This is a maven project
